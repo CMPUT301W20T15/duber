@@ -1,9 +1,22 @@
 # BonVoyage
 ![](https://github.com/CMPUT301W20T15/bonvoyage/blob/master/doc/UI_Mockups_Images/header4.png)
 
+
+
+![image](https://github.com/CMPUT301W20T15/bonvoyage/assets/42990726/817c3cc5-cab0-4d7f-b386-123d1283e521)
+
+![image](https://github.com/CMPUT301W20T15/bonvoyage/assets/42990726/709d58ef-1127-44d1-bdc3-0ab14a392124)
+
+![image](https://github.com/CMPUT301W20T15/bonvoyage/assets/42990726/8178c69b-2f1f-493c-9da0-992eb1a0184e)
+
+![image](https://github.com/CMPUT301W20T15/bonvoyage/assets/42990726/c04b93cf-9104-4837-91a4-4ed3ff7f130b)
+
 Bon Voyage is developed as a mobile application that allows drivers to search for open and recent ride requests, and for riders to post requests for rides. Riders will describe the start and end of their ride and their suggested payment. Drivers will browse for nearby requests and accept ride requests that they are willing to fulfil.
 
 On ride completion, drivers and riders use QR generated codes to complete payments.
+
+
+
 
 
 
